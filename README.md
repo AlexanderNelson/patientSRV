@@ -34,13 +34,13 @@ Usage
 
 Replace all images in image folder and personal information in resumeBuilder.js:
 
-####User:
+#### User:
 
 Obtain login name (email) and create password.
 
 Add information as needed.
 
-####Admin:
+#### Admin:
 
 Setup Mysql Database
 
