@@ -32,7 +32,7 @@ PatientSRV requires the following to run:
 Usage
 -----
 
-Replace all images in image folder and personal information in resumeBuilder.js:
+Replace all images in image folder and update code in default.ctp to change branding.
 
 #### User:
 
