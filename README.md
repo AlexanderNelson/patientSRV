@@ -1,3 +1,77 @@
+
+PatientSRV
+==========
+
+A PHP based patient info, invoicing and appointment project using CakePHP. Currently running on apache for healthcare interests and easily adapted to other needs with modification or addition of forms and tables.
+
+
+[![Build status][shield-build]](#)
+[![Dependencies][shield-dependencies]](#)
+
+
+Table of Contents
+-----------------
+
+  * [Requirements](#requirements)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Support](#support)
+  * [License](#license)
+
+
+Requirements
+------------
+
+PatientSRV requires the following to run:
+
+  * app.php file 
+  * database
+  * server
+
+
+Usage
+-----
+
+Replace all images in image folder and personal information in resumeBuilder.js:
+
+####User:
+
+Obtain login name (email) and create password.
+
+Add information as needed.
+
+####Admin:
+
+Setup Mysql Database
+
+Enter Password and Login in app.php
+
+Apply to functional business needs and update styling.
+
+
+Contributing
+------------
+
+To contribute, clone this repo locally and commit your code on a separate branch. Please test and format before opening a pull-request:
+
+
+Support
+---------------------
+
+Email: AmVetServ@gmail.com
+
+
+License
+-------
+
+Copyright &copy; 2017, Alexander Nelson
+
+
+
+[shield-dependencies]: https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg
+[shield-build]: https://img.shields.io/badge/build-passing-brightgreen.svg
+
+
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
